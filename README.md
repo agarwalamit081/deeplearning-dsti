@@ -17,7 +17,7 @@ Computer vision project
 pip install - r requirement.txt 
 ```
 
-# Project purpose :
+# Objective :
 
 • This project implements a Convolutional Neural Network (CNN) to predict car models across 196 classes using the Stanford Cars Dataset. The objective is to develop a deep learning model that accurately classifies images of cars into their respective make, model, and year categories. This serves as an application of computer vision techniques for fine-grained image classification, leveraging Python and frameworks like TensorFlow. The project is designed to provide insights into building and training CNNs for detailed object recognition tasks.
 
