@@ -32,7 +32,7 @@ Link to the dataset : https://www.kaggle.com/datasets/jessicali9530/stanford-car
 •	AlexNet  
 •	VGG16  
 •	ResNet50   
-•	DenseNet121
+•	DenseNet121 
 •	ImageNet  
 •	EfficientNetB0  
 •	InceptionV3  
